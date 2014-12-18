@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\build\intermediates\pre-dexed\debug\android-support-v4-7d840854c61bdac8b25b5ad26a1cf892fa1cdca1.jar"
+        jar="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507"/>
+
+</pre-dex-items>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/dateColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Date" />
+
+    <TextView
+        android:id="@+id/numberCorrectColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Correct" />
+
+    <TextView
+        android:id="@+id/numberIncorrectColumn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="Incorrect" />
+
+    <ListView
+        android:id="@+id/scoreList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/numberIncorrectColumn" >
+    </ListView>
+
+</RelativeLayout><!-- From: file:/C:/adt-bundle-windows-x86_64-20140702/workspace/MathApp/res/layout/activity_score_history.xml -->

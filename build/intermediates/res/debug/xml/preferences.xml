@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/timer_preferences" >
+        <CheckBoxPreference
+            android:key="checkbox_preference"
+            android:title="@string/title_timer_toggle" />
+
+        <ListPreference
+            android:dialogTitle="@string/dialog_title_list_preference"
+            android:dependency="checkbox_preference"
+            android:entries="@array/entries_list_preference"
+            android:entryValues="@array/entryvalues_list_preference"
+            android:key="list_preference"
+            android:summary="@string/summary_timer_length_preference"
+            android:title="@string/title_timer_length" />
+    </PreferenceCategory>
+
+</PreferenceScreen><!-- From: file:/C:/adt-bundle-windows-x86_64-20140702/workspace/MathApp/res/xml/preferences.xml -->

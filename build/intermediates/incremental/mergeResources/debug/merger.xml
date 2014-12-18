@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res"><file name="ic_launcher" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_preferences" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout\activity_preferences.xml" qualifiers="" type="layout"/><file name="activity_score_history" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout\activity_score_history.xml" qualifiers="" type="layout"/><file name="activity_selector" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout\activity_selector.xml" qualifiers="" type="layout"/><file name="row" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout\row.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\layout-land\activity_main.xml" qualifiers="land" type="layout"/><file name="main" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values\arrays.xml" qualifiers=""><string-array name="entries_list_preference">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>60 seconds</item>
+    </string-array><string-array name="entryvalues_list_preference">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values\strings.xml" qualifiers=""><string name="title_timer_length">Timer Length</string><string name="action_settings">Settings</string><string name="title_activity_score_history">Score History</string><string name="dialog_title_list_preference">Choose one</string><string name="summary_timer_length_preference">Set the length of the countdown timer</string><string name="app_name">Math App</string><string name="title_activity_main_menu">Main Menu</string><string name="timer_preferences">Timer preferences</string><string name="title_activity_preferences">Preferences</string><string name="title_timer_toggle">Timer On/Off</string></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="CustomFontStyle" parent="@android:style/TextAppearance">
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:layout_height">wrap_content</item>
+      <item name="android:capitalize">characters</item>
+      <item name="android:typeface">monospace</item>
+      <item name="android:textSize">32pt</item>
+      <item name="android:textColor">#FF0000</item>/> 
+   </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="preferences" path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\build\generated\res\rs\debug"/><source path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\adt-bundle-windows-x86_64-20140702\workspace\MathApp\build-types\debug\res"/></dataSet><mergedItems/></merger>
